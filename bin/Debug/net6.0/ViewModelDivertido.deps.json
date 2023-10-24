@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ViewModelDivertido/1.0.0": {
+        "runtime": {
+          "ViewModelDivertido.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ViewModelDivertido/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
